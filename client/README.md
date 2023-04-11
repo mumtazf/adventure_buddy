@@ -30,8 +30,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/mumtazf/crewmates/blob/main/client/public/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/mumtazf/adventure_buddy/blob/main/client/public/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+                                                                     
 ## License
 
     Copyright [2023] [Mumtaz]
