@@ -1,4 +1,4 @@
-# Web Development Project 7 - *Advemture Buddy*
+# Web Development Project 7 - *Adventure Buddy*
 
 Submitted by: **Mumtaz Fatima**
 
